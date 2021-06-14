@@ -1,3 +1,3 @@
 # Universite Yonetim
 
-![deneme](Images/universiteYonetim.png)
+![deneme](resim/universiteYonetim.png)
