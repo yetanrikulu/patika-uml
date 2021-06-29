@@ -1,3 +1,3 @@
-# Hayvanat Bahçesi Yonetim
+# Asansör Simulasyonu
 
 ![deneme](resim/asansorSimulasyonu.png)
