@@ -1,3 +1,3 @@
 # Online Film Sitesi
 
-![deneme](resim/onlineFilm.png)
+![deneme](resim/filmSistemi.png)
